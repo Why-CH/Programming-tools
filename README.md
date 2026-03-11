@@ -32,6 +32,6 @@ make
 
 ```bash
 cd lab3
-docker compose build
-docker compose up
+docker-compose build
+docker-compose up
 ```
