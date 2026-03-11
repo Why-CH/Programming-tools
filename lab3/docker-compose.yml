@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  tour_app:
+    build: .
+    container_name: tour_container
+    stdin_open: true
+    tty: true
