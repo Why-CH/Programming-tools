@@ -1,17 +1,19 @@
-#  Programming-tools labs
+# Programming-tools labs
 
 I will store here my files and something else.
 
 ## Labs1-2
+
 ### How install requirements to NODE
 
-```js
+```bash
 cd node
 npm install
 ```
 
 ### How install requirements to Python
-```python
+
+```bash
 cd python
 python -m venv venv
 venv\Scripts\activate.bat
