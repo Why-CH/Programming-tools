@@ -23,6 +23,9 @@ lab3/*.dll
 lab3/*.lib
 lab3/*.a
 lab3/*.so
+lab3/*.slnx
+lab3/*.vcxproj
+lab3/*.d
 
 lab3/bin/
 lab3/build/
