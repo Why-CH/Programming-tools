@@ -35,3 +35,5 @@
 - додано файл `index.md`;
 - налаштовано публічний доступ до документації через GitHub Pages;
 - отримано публічне посилання на документацію.
+
+  ![test img](https://docs.github.com/assets/cb-55933/mw-1440/images/help/repository/readme-links.webp "test tooltip")
